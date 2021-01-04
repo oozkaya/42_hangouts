@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Hangouts</string>
+    <string name="action_blue_theme">Blue</string>
+    <string name="action_red_theme">Red</string>
+    <string name="action_dark_theme">Dark</string>
+    <string name="builder_number">Phone :</string>
+    <string name="builder_email">Email :</string>
+    <string name="builder_address">Address :</string>
+
+    <string name="sms_received">New message from</string>
+    <string name="last_time_used">Last time used :</string>
+    <string name="error_contact_exists">Contact already exists</string>
+
+    <!-- Strings used for contact navigation -->
+    <string name="action_modify">Modify</string>
+    <string name="action_sms">Sms</string>
+    <string name="action_call">Call</string>
+
+    <!-- Strings used for message activity -->
+    <string name="action_send">Send</string>
+    <string name="error_send">SMS failed, please try again later !</string>
+
+    <!-- Strings used for modify contact activity -->
+    <string name="new_contact">New contact</string>
+    <string name="action_add_contact">Add contact</string>
+
+    <!-- Strings used for modify contact activity -->
+    <string name="avatar">Avatar</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_number">Phone</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_address">Address</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete the contact</string>
+    <string name="fields_missing">First name or Phone missing</string>
+
+    <string name="hello_first_fragment">Hello World!</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
