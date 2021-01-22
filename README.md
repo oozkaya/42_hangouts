@@ -4,4 +4,8 @@ This project is designed to get you acquainted with the android system. You will
 
 For this project, I decided to put some more work on the design, and some bonus features, like profile image, calling possibility, themes, sms real-time synchronization...
 
-![Hangouts](docs/screenshots/demo.gif)
+---
+
+<p align="center">
+  <img src="docs/screenshots/demo.gif" width="50%">
+</p>
